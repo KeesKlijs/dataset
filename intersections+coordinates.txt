@@ -1,0 +1,15 @@
+Kruispunt,Latitude,Longitude
+Keizerstraat x Oude Vest,51.588119,4.775935
+Weerijssingel x Vincent van Goghstraat,51.568394,4.774556
+Academiesingel x Delpratsingel,51.589066,4.778311
+Backer x Ruebweg,51.570245,4.738678
+Ettensebaan x Breda-West,51.585713,4.717468
+Terheijdenseweg x Crogtdijk,51.596624,4.786052
+Westerparklaan x Ettensebaan,51.587601,4.712868
+Noordelijke rondweg x Veldsteen,51.584876,4.725985
+Willemstraat x Academiesingel,51.589029,4.777835
+Beverweg x Hooghout,51.579836,4.808470
+Adriaan van Bergenstraat x Nieuwe prinsenkade,51.594620,4.772819
+Oude Vest x Keizerstraat,51.588119,4.775935
+Van Coothplein,51.588244,4.775569
+Graaf Hendrik III Laan x Brederostraat,51.576906,4.795405
